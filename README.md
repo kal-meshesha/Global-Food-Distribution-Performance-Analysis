@@ -1,5 +1,5 @@
 # Global Food Distribution Performance Analysis
-## Power BI Dashboard | Sales & Margin Optimization | Business Intelligence | Data Modeling
+## Power BI Dashboard | Sales Performance & Revenue Analytics Dashboard |
 ### Executive Summary
 A global food distribution company needs better visibility into regional sales performance, product profitability, customer value, and expansion opportunities to maximize revenue and margins.
 Using Power BI, I built an interactive multi-dashboard reporting system analyzing sales trends (2012–2014), gross margins, product performance, customer profitability, and geographic opportunities across the U.S. and Europe.
